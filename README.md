@@ -25,11 +25,9 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
+9. 
 ## FLOW CHART
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
 
 #### Program
 
@@ -67,14 +65,10 @@ END
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/558f6d82-c5e1-4365-baba-6ec65ac65ac2" />
 
-
-
-
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="500" height="500" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dca386af-7cfc-4110-a008-5bd011cfc5bc" />
-
 
 ## 2. SUBTRACTION
 
@@ -89,7 +83,6 @@ END
 ## FLOWCHART
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 ```asm
@@ -128,14 +121,11 @@ END
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/dfbb39f1-9b82-495a-a7e9-28fc7860e010" />
 
-
-
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="500" height="500" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/f395478e-78b8-49bd-b5e7-e7f3b5edb5fe" />
-
 
 ## 3. MULTIPLICATION
 
@@ -149,8 +139,6 @@ END
 ##FLOWCHART
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -185,14 +173,10 @@ END
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/2cf2b7b8-ddc0-4aa6-9ef4-09504d0cad37" />
 
-
-
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="500" height="500" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/d9dd91bf-2afa-4fab-80f9-cc24f6adde2b" />
-
-
 
 ## 4. DIVISION
 
@@ -204,7 +188,6 @@ END
 
    ## FLOWCHART
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
-
 
 #### Program
 
@@ -238,8 +221,6 @@ END
 #### Manual Calculations
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f9ce2e8e-70d9-4bd6-bcf2-58451e9a3b3f" />
-
-
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
